@@ -40,6 +40,8 @@
         style="@style/Text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hyperlink" />
+        android:text="@string/hyperlink"
+        android:linksClickable="true"
+        android:autoLink="web"/>
 
 </LinearLayout>
