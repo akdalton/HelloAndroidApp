@@ -1,5 +1,5 @@
 # HelloAndroidApp
-HelloAndroidApp is basically single screen android app where i have mentioned business picture, address, contact information of Udacity.
+HelloAndroidApp is basically single screen android application where i have mentioned business picture, address, contact information of Udacity.
 
 ## Technology Uses 
 * Core Java
@@ -10,8 +10,8 @@ HelloAndroidApp is basically single screen android app where i have mentioned bu
 * Java SDK
 
 ## Versions
-* For the version 1.0, see the [CourtCounterApp](https://github.com/akdalton/CourtCounterApp).
-* For the version 2.0, see the [ScoreKeeperApp](https://github.com/akdalton/ScoreKeeperApp).
+* For the version 1.0, see the [HelloAndroidApp](https://github.com/akdalton/HelloAndroidApp).
+* For the version 2.0, see the [SingleScreenApp](https://github.com/akdalton/SingleScreenApp).
 
 ## Authors
 * **Ashish Kumar** - *Initial work* - [akdalton](https://github.com/akdalton).
