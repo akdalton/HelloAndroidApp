@@ -1,5 +1,6 @@
-# HelloAndroidApp
-HelloAndroidApp is basically single screen android application where i have mentioned business picture, address, contact information of Udacity.
+# Hello Android App
+* Single screen android application.
+* Developed to display all the business details like business picture, address, contact information of Udacity.
 
 ## Technology Uses 
 * Core Java
